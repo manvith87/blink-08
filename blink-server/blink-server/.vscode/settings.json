@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "Blink (blink.db)",
+      "driver": "SQLite",
+      "database": "${workspaceFolder}/blink.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true,
+  "files.exclude": {
+    "node_modules": true,
+    "blink.db-shm": true,
+    "blink.db-wal": true
+  }
+}

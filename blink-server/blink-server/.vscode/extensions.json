@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "qwtel.sqlite-viewer",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-sqlite",
+    "dbaeumer.vscode-eslint"
+  ]
+}
